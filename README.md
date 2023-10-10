@@ -8,4 +8,3 @@ Objectives
 •	Assessing tax fraud prevalence, reviewing detection methods, gathering data, exploring unsupervised machine learning algorithms, focusing on feature engineering, evaluating metrics, analyzing false positives, assessing scalability, discussing ethical considerations, and summarizing key findings.
 •	The research findings will be shared through publications, reports, or presentations to benefit tax authorities, financial institutions, and the broader community interested in tax fraud prevention.
 •	By utilizing unsupervised machine learning, the study aims to identify and prevent under-reporting declarations, ultimately contributing to improved tax compliance and revenue collection.
-![image](https://github.com/murtazahh/Predicting-False-Tax-Returns-with-Data-A-Zambian-Case/assets/112251167/9ec16bb5-815a-49d7-b828-ed529b972d55)
